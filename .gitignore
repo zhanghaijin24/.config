@@ -9,6 +9,7 @@ clash
 clash_win
 dconf
 dolphinrc
+gtk-2.0
 gtk-3.0
 gtk-4.0
 gtkrc
@@ -71,3 +72,9 @@ nvim/plugged
 kfontviewrc
 QtProject.conf
 khelpcenterrc
+GIMP
+discoverrc
+filetypesrc
+kded5rc
+libreoffice
+okularrc
